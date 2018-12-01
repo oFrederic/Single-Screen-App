@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Single Screen App</string>
+    <string name="business_name">PETER\'S BAR</string>
+    <string name="business_description">Peter: The Bar\'s chic decor blends seamlessly with its panoramic views of Tokyo\'s Imperial Palace Gardens, Hibiya Park and the vibrant Ginza district. Come happy hour, Peter: The Bar becomes a stylish playground for the trendy crowds of Tokyo\'s young and successful, who return again and again for the legendary cocktails with an enticing selection of vintage and classic concoctions.</string>
+    <string name="contact">Contact information :</string>
+    <string name="business_phone">+81 3 6270 2763</string>
+    <string name="business_eMail">peterptk@peninsula.com</string>
+    <string name="address">Address :</string>
+    <string name="business_address">100-0006Chiyoda1-8-1 Yurakucho, The Peninsula Tokyo</string>
+    <string name="hours">Hours :</string>
+    <string name="business_hours_sun_to_thur">12:00 pm - 12:00 am (Sun to Thur)</string>
+    <string name="business_hours_fri_and_sat">12:00 pm - 1:00 am (Fri and Sat)</string>
+    <string name="main_picture">main picture</string>
+    <string name="logo">Logo</string>
 </resources>
